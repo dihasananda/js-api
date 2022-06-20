@@ -9,6 +9,6 @@ fetch('https://fakestoreapi.com/products')
             <h3>${item.title}</h3>
             <p>${item.price}</p>
             `;
-            console.log(item.title)
+            // console.log(item.title)
         })
     })
